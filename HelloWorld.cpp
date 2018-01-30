@@ -12,3 +12,8 @@ int main()
 int add(intx, int y) {
 	return x+y;
 }
+
+int foo()
+{
+	return 0;
+}
